@@ -2,8 +2,8 @@
 
 [원본 프로젝트](https://github.com/electrum/tpch-dbgen)
 
-
-(아래는 원본 프로젝트에서 발췌한 내용입니다.)
+* 상세 내용은 상단 메뉴의 Wiki를 참조해 주세요.
+* 아래는 원본 프로젝트에서 발췌한 내용입니다.
 
 ## What is this document?
 
